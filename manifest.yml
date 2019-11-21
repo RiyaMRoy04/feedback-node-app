@@ -1,0 +1,7 @@
+---
+applications:
+- path: .
+  memory: 256M
+  instances: 2
+  name: feedws
+  disk_quota: 128M
